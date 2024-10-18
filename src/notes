@@ -1,0 +1,6 @@
+type casting 
+
+1. Widening (Implicit) Casting: byte - short - char - int - long - float - double 
+								1		2		2		4	8	   4		8
+2. . Narrowing (Explicit) Casting: - 
+
