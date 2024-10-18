@@ -22,23 +22,76 @@ public class Main {
 		int num = 10;
 		int num1=1;
 		
-//		while(num>=num1) {
-//			System.out.println(num1);//1,2,4.......10
-//			num1++; //2,3,.....,11
-//		}
-//		
-//		do {
-//			System.out.println(num1);//11 ,10.......1
-//			num1--;//10,.....0
-//		}while(num1>0);
-//		
-//		//for(ins/variable ; condition ; ince/dicr){
-//		//	code....
-//		//}
+		while(num>=num1) {
+			System.out.println(num1);//1,2,4.......10
+			num1++; //2,3,.....,11
+		}
+		
+		do {
+			System.out.println(num1);//11 ,10.......1
+			num1--;//10,.....0
+		}while(num1>0);
+		
+		//for(ins/variable ; condition ; ince/dicr){
+		//	code....
+		//}
 		for(num = 10; num <= 100; num=num+5) {
 			System.out.println(num);
 		}
 
+		
+		while(num>=num1) {
+			System.out.println(num1);//1,2,4.......10
+			num1++; //2,3,.....,11
+		}
+		
+		do {
+			System.out.println(num1);//11 ,10.......1
+			num1--;//10,.....0
+		}while(num1>0);
+		
+		//for(ins/variable ; condition ; ince/dicr){
+		//	code....
+		//}
+		for(num = 10; num <= 100; num=num+5) {
+			System.out.println(num);
+		}
+
+		while(num>=num1) {
+			System.out.println(num1);//1,2,4.......10
+			num1++; //2,3,.....,11
+		}
+		
+		do {
+			System.out.println(num1);//11 ,10.......1
+			num1--;//10,.....0
+		}while(num1>0);
+		
+		//for(ins/variable ; condition ; ince/dicr){
+		//	code....
+		//}
+		for(num = 10; num <= 100; num=num+5) {
+			System.out.println(num);
+		}
+
+		while(num>=num1) {
+			System.out.println(num1);//1,2,4.......10
+			num1++; //2,3,.....,11
+		}
+		
+		do {
+			System.out.println(num1);//11 ,10.......1
+			num1--;//10,.....0
+		}while(num1>0);
+		
+		//for(ins/variable ; condition ; ince/dicr){
+		//	code....
+		//}
+		for(num = 10; num <= 100; num=num+5) {
+			System.out.println(num);
+		}
+
+		
 	}
 
 }
